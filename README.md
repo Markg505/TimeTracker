@@ -1,5 +1,4 @@
 # TimeTracker
-# Hours Tracker
 
 A MERN‑stack application to log and aggregate work hours for independent contractors.  
 Built with React, Node.js/Express, and MongoDB Atlas—features include:
